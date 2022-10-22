@@ -11,7 +11,7 @@ This repository documents how to access the USDA's [Web Soil Survey](https://web
 
 **web_soil_survey_sample.ipynb** is a jupyter notebook giving a sample query that could be passed into **web_soil_survey.py**
 
-I would have also uploaded the data I use for my blog posts but with 100,000 rows it was too large for Github to handle... you can get the same data by using the sample query I have here and changing the number to 100,000. The API will only allow you to get 100,000 rows max with every query
+I would have also uploaded the dataset I use for my blog posts but with 100,000 rows it was too large for Github to handle... you can get the same data by using the sample query I have here and changing the number to 100,000. The API will only allow you to get 100,000 rows max with every query
 
 [Here is a link](https://sdmdataaccess.nrcs.usda.gov/) to the help page that will direct you to answers to your WSS questions
 
