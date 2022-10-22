@@ -1,6 +1,6 @@
 # Soil Data
 
-This repository documents how to access the USDA's Web Soil Survey with Python.
+This repository documents how to access the USDA's [Web Soil Survey](https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm) with Python.
 
 
 ## The code
@@ -10,6 +10,8 @@ This repository documents how to access the USDA's Web Soil Survey with Python.
 **web_soil_survey.py** is the python function I wrote loosely based on the function in **soildb.r**
 
 **web_soil_survey_sample.ipynb** is a jupyter notebook giving a sample query that could be passed into **web_soil_survey.py**
+
+[Here is a link](https://sdmdataaccess.nrcs.usda.gov/) to the help page that will direct you to answers to your WSS questions
 
 
 ## The story
