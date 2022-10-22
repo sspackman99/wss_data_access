@@ -14,4 +14,4 @@ This repository documents how to access the USDA's Web Soil Survey with Python.
 
 ## The story
 
-Check out my post on my blog Data Science Magic if you want to learn more about my inspiration for the project and see what I did!
+Check out [my post on my blog Data Science Magic](https://www.datasciencemagic.org/2022/10/21/Getting-Dirty-Getting-Data.html) if you want to learn more about my inspiration for the project and see what I did!
